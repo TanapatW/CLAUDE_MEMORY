@@ -1,0 +1,24 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependencies (uncomment as needed)
+# node_modules/
+# vendor/
+# __pycache__/
+
+# Build output (uncomment as needed)
+# dist/
+# build/
+# out/
